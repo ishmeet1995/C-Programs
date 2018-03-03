@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:d:\programs\c\c programs\cprog\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1484035857 source:d:\programs\c\c programs\cprog\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+
